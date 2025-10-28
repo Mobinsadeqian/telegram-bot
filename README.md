@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ##My first PROJECT##
 =======
 This is just a simple telegram robot for collecting price of three smartphone models and showing their prices

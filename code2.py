@@ -4,7 +4,7 @@ from telegram import Update
 from telegram import ReplyKeyboardMarkup, ReplyKeyboardRemove
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
-token = ""
+token = "YOUR TOKEN"
 
 KNOWN_BRANDS = ["Apple", "Samsung", "Google"]
 
